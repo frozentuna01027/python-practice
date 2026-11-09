@@ -1,0 +1,4 @@
+git status 
+git add islandgame_01.py
+git commit -m "Version 2:Updated Python code"
+git push
